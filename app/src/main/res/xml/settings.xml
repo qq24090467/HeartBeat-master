@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="setting" android:title="@string/action_settings" >
+
+        <Preference
+            android:key="pattern"
+            android:title="@string/settings_pattern" />
+
+        <ListPreference
+            android:key="time_axis_sorting"
+            android:title="@string/setting_timeaxis_sorting"
+            android:dialogTitle="@string/setting_timeaxis_sorting"
+            android:entries="@array/time_axis_sorting_entries"
+            android:entryValues="@array/time_axis_sorting_entrie_values"
+            android:defaultValue="@string/time_axis_sorting_old_to_new" />
+
+        <Preference
+            android:key="crash"
+            android:title="@string/settings_crash" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="backup_cat" android:title="@string/setting_backup_cat" >
+
+        <Preference
+            android:key="backup_sd"
+            android:title="@string/setting_backup_sd" />
+
+        <Preference
+            android:key="backup_cloud"
+            android:title="@string/setting_backup_cloud" />
+
+        <Preference
+            android:key="restore"
+            android:title="@string/setting_restore" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="about" android:title="@string/category_about" >
+
+        <Preference
+            android:key="version"
+            android:title="@string/settings_version" />
+
+        <Preference
+            android:key="github"
+            android:title="@string/settings_github" />
+
+        <Preference
+            android:key="weibo"
+            android:title="@string/settings_weibo" />
+
+        <Preference
+            android:key="email"
+            android:title="@string/email" />
+
+        <Preference
+            android:key="icon_thanks"
+            android:title="@string/icon_thanks_title"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_event_list"
+        android:icon="@drawable/ic_action_reorder"
+        android:title="@string/event_list" />
+    <item
+        android:id="@+id/nav_today"
+        android:icon="@drawable/ic_action_today"
+        android:title="@string/today" />
+    <item
+        android:id="@+id/nav_label_cloud"
+        android:icon="@drawable/ic_action_label"
+        android:title="@string/labelCloud" />
+    <item
+        android:id="@+id/nav_statistics"
+        android:icon="@drawable/ic_action_trending_up"
+        android:title="@string/statistics" />
+</menu>
