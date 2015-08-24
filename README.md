@@ -8,13 +8,6 @@
 
 ![screenshot](screenshot.png)
 
-##下载
-
-<a href="https://play.google.com/store/apps/details?id=com.maxiee.heartbeat"><img src="http://www.android.com/images/brand/get_it_on_play_logo_large.png"/></a>
-
-[酷市场下载地址](http://coolapk.com/apk/com.maxiee.heartbeat)
-
-[网盘下载地址](http://pan.baidu.com/s/1pJvFmun)
 
 ##应用说明
 
@@ -35,14 +28,4 @@
 
 5. 标签云分页：生活重心在哪里，在标签云中一览便知。
 
-心动为一款开源 APP，项目主页：https://github.com/maxiee/HeartBeat
 
-##联系方式
-
-新浪微博：[@Maxiee_Bayesian](http://weibo.com/maxiee)
-
-邮箱：maxieewong@gmail.com
-
-##关于我
-
-[我的简历](http://maxiee.github.io/static/html/resume.html)，欢迎与我联系！
